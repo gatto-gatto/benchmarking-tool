@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(52, 50, 50);
+    color: white;
+}
+
+.main-form {
+    position: relative;
+    top: 200px;
+    width: 450px;
+    margin: auto;
+}
+
+button {
+    left: 150px;
+    margin: auto;
+    position: relative;
+}
