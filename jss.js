@@ -4,7 +4,7 @@ function fxx() {
     console.log(link)
     console.log(time)
 
-    var meet = window.open("https://www.google.com/");
+    alert(link)
 
     function sleep(ms) {
         return new Promise(resolve => setTimeout(resolve, ms));
